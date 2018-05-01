@@ -3,7 +3,7 @@
 ## Requirements:
 * cmake (3.9 or higher),
 * gcc, g++ (5.4.0 or higher),
-*
+
 ## Build
 
 Go to directory [PMC/PMC_source/](https://github.com/lstruski/PMC/tree/master/PMC_source) and run the following instruction in terminal:
